@@ -23,6 +23,6 @@ def breed=(breed_dog)
 end
 
 def breed
-  
+  @breed
 end
 end
