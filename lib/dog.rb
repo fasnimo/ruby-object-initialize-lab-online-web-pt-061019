@@ -4,3 +4,9 @@ class Person
 
   end
 end
+
+class Dog
+  def initialize(dogs_name)
+
+  end
+end
