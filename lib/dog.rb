@@ -21,6 +21,14 @@ class Dog
 end
 
   def names=(name_of_dog, breed = "Mutt")
+    @name = name_of_dog
+    @breed = breed
 
+  end
 
+  def names
+    @name
+    @breed
+
+  end
 end
