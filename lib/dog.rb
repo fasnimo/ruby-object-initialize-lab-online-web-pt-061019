@@ -19,6 +19,4 @@ class Dog
   #      "Mutt"
   # end
 end
-
-end
 end
