@@ -15,4 +15,5 @@ class Dog
     @name = name
     @breed = name
 end
+  
 end
