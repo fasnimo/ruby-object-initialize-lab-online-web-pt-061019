@@ -1,6 +1,6 @@
 class Person
   def initialize(owners_name)
-    @name = owners_name
+    @owners_name = owner
 
   end
 end
