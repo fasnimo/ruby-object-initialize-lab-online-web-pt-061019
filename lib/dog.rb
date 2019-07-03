@@ -11,7 +11,7 @@ end
 
 
 class Dog
-  def initialize(dogs_name, dogs_breed)
+  def initialize(name, dogs_breed)
     @name = dogs_name
     if @breed == dogs_breed
         dogs_breed
