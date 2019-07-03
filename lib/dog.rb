@@ -1,5 +1,5 @@
 class Person
-  def initialize(owners_name)
+  def initialize (owners_name)
     @name = owners_name
 
   end
@@ -15,7 +15,8 @@ class Dog
     @name = name
     @breed = name
 end
-  
+
+  def 
 
 
 end
