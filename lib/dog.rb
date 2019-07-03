@@ -22,9 +22,9 @@ end
 
 def name
   @name
-end 
+end
 
-def breed 
+def breed
   @breed
-end 
+end
 end
