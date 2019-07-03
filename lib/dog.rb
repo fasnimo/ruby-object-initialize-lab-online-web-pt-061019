@@ -5,7 +5,7 @@ class Person
   end
 
   def name
-    @owners_name
+    @name
   end
 end
 
