@@ -12,7 +12,7 @@ end
 
 class Dog
   def name=(name_dog)
-    @name = name
+    @name = name_dog
   #   if @breed == breed
   #       @breed
   #   else
