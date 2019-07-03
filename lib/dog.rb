@@ -15,6 +15,7 @@ class Dog
     @name = dogs_name
     if @breed == dogs_breed else @breed = "Mutt"
   end
+end
   # def breed
   #   @breed
   # end
