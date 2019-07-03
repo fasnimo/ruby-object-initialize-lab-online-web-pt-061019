@@ -13,18 +13,12 @@ end
 class Dog
   def name=(name_dog)
     @name = name_dog
-  #   if @breed == breed
-  #       @breed
-  #   else
-  #      "Mutt"
-  # end
-end
-
+  end
 def name
   @name
 end
 
-def breed
+def breed=(breed_dog)
   @breed
 end
 end
