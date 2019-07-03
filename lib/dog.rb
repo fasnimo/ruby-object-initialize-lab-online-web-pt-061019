@@ -3,7 +3,12 @@ class Person
     @owners_name = owner
 
   end
+
+  def name
+    @owners_name
+  end
 end
+
 
 class Dog
   def initialize(dogs_name)
