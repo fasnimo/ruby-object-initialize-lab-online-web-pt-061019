@@ -1,5 +1,5 @@
-class Person 
+class Person
   def initialize
 
-  end 
-end 
+  end
+end
