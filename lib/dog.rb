@@ -20,7 +20,7 @@ class Dog
     @breed = breed
 end
 
-  def
+  def names=(name_of_dog, breed = "Mutt")
 
 
 end
